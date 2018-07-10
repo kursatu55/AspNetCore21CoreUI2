@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <UserSecretsId>aspnet-CoreUI.Mvc-71A7A983-BE69-46E3-873B-6B6F2F38AEE1</UserSecretsId>
+    <UserSecretsId>aspnet-CoreUI.Mvc-8C5D8BDE-537E-4AD9-8EDF-08F09C3ACC8E</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
